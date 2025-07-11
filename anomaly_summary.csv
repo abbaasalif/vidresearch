@@ -1,0 +1,3 @@
+video_name,original_activity,anomalies
+anomaly_video_0.mp4,Drumming,inserted_object;shuffled;combined_activity_WallPushups
+anomaly_video_1.mp4,WallPushups,inserted_object;combined_activity_HorseRace;reversed;shuffled

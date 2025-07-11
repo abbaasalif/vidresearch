@@ -1,5 +1,5 @@
 output*
 synthetic*
 *.ttf
-*.csv
+anomaly_summary_bkp.csv
 UCF-101
